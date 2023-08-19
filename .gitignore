@@ -11,6 +11,10 @@
 # production
 /build
 
+.vscode
+
+nhap
+
 # misc
 .DS_Store
 .env.local
